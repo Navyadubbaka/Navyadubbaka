@@ -52,5 +52,4 @@ Welcome to my GitHub profile ✨
 - 💃 Dance is my bug-fix for a tired mind.  
 ---
 
-[![An image of @navyadubbaka's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/navyadubbaka)](https://holopin.io/@navyadubbaka)
 ⭐️ *Feel free to explore my repositories and connect with me!*  

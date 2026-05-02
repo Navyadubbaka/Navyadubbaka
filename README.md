@@ -20,7 +20,7 @@ Welcome to my GitHub profile ✨
 ---
 
 ## 🚀 About Me  
-- 🎓 **3nd-year B.Tech student in Computer Science and Engineering (CSE)** at CVR College of Engineering, Hyderabad.  
+- 🎓 **4th-year B.Tech student in Computer Science and Engineering (CSE)** at CVR College of Engineering, Hyderabad.  
 - 🌱 Learning **Data Structures & Algorithms (DSA)**.  
 - 💡 Interested in **Web Development, Java Projects**.  
 - 👯 Open to collaborating on **student projects, open-source contributions, and beginner-friendly web apps**.  

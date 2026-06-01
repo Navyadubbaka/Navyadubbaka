@@ -40,9 +40,7 @@ Welcome to my GitHub profile ✨
 ## 📊 GitHub Stats  
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Navyadubbaka&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Navyadubbaka&layout=compact&theme=radical)
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Navyadubbaka&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Navyadubbaka&layout=compact&theme=radical)
